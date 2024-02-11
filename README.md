@@ -28,6 +28,7 @@ I'm Keertana, a software developer who made an academic detour through analytics
 | [SplurgeSavvy-AndroidApp](https://github.com/KeertanaSG/SplurgeSavvy-AndroidApp) | An Android app for managing your expenses. | Java, XML                     |
 | [ITSDTeamProj](https://github.com/KeertanaSG/ITSDTeamProj) | A Java-based game project. | Java, HTML, Scala                         |
 | [Django_Blogging_Website](https://github.com/KeertanaSG/Django_Blogging_Website) | A Django-based blogging website. | Python (Django), HTML, CSS, JavaScript |
+| [Geniusrise Vision](https://github.com/geniusrise/geniusrise-vision) | Vision AI with scalable inference, bulk processing, and custom fine-tuning capabilities for diverse applications. | Python (Pytorch) |
 
                     
  # Socials
